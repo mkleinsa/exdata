@@ -1,0 +1,17 @@
+Package: exdata
+Title: Example Data for Tutorials
+Version: 1.0
+Authors@R: 
+    c(
+    person(given = "Michael", family = "Kleinsasser", role = c("cre"), email = "mkleinsa@umich.edu"))
+Description: Threw some example data sets together for tutorials.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Biarch: true
+Depends: 
+    R (>= 3.6.0)
+Imports: 
+LinkingTo: 
+SystemRequirements: GNU make
+RoxygenNote: 6.1.99.9001
