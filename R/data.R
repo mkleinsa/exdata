@@ -5,3 +5,9 @@
 #'
 #'
 "nycParkingSmall"
+
+#' Data set from Economist article
+#'
+#'
+#'
+"EconomistData"
