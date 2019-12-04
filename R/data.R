@@ -11,3 +11,9 @@
 #'
 #'
 "EconomistData"
+
+#' Data set from Economist article
+#'
+#'
+#'
+"classes"
