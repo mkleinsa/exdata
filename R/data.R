@@ -17,3 +17,9 @@
 #'
 #'
 "classes"
+
+#' Link data for Corona virus app
+#'
+#'
+#'
+"link"
