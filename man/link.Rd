@@ -4,7 +4,7 @@
 \name{link}
 \alias{link}
 \title{Link data for Corona virus app}
-\format{An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 35 rows and 5 columns.}
+\format{An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 143 rows and 5 columns.}
 \usage{
 link
 }
